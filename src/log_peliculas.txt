@@ -1,0 +1,4 @@
+[ERROR] Fallo en la ejecución: peliculas.csv
+[ERROR] Fallo en la ejecución: .\peliculas.csv
+[LOG] Ejecución correcta. Se procesaron 6 películas con éxito.
+[LOG] Ejecución correcta. Se procesaron 6 películas con éxito.
